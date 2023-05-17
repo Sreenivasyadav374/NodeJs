@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreenivasyadav374/NodeJs.git"
+  },
+  "author": "Sreenivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreenivasyadav374/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Sreenivasyadav374/NodeJs#readme"
+}
